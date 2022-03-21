@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, Rik!");
+﻿static void SayHello() {
+    Console.WriteLine("Hello, Rik!");
+}
